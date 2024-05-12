@@ -1,2 +1,78 @@
 Powerpoint:https://docs.google.com/presentation/d/1LkAS1gMw0O_ODZClEdTFPjD68k7piB5iF9ySdL0BQ5Y/edit#slide=id.p 
-Presentation video:
+
+
+CHART 1 Monthly deaths count time series for US combined, by race/ethnicity group
+
+Data downloaded:
+
+For mortality counts over time and for crude rates over time MONTHLY/NATIONAL - https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-Distribution-of-Deaths/pj7m-y5uh 
+
+
+CHART 2
+Monthly crude rates over time, adding in each month for cumulative rates, for US total
+
+Data downloaded
+
+For national populations by race, all ages combined, 2020 Census via CDC WONDER - https://wonder.cdc.gov/controller/saved/D170/D278F683
+
+Also uses mortality data; same data as for Chart 1.
+
+CHART 4
+Quarterly crude rates over time, adding together each month for cumulative rates, for US states + Monthly crude rates over time, adding together each month for cumulative rates, for US total (from Chart 2)
+
+Data downloaded:
+
+For state-level populations by race, all ages combined, 2020 Census via CDC WONDER - https://wonder.cdc.gov/controller/saved/D170/D279F330
+
+For counts over time and for crude rates over time QUARTERLY/STATES - https://data.cdc.gov/NCHS/AH-Quarterly-Excess-Deaths-by-State-Sex-Age-and-Ra/jqg8-ycmh
+
+Also uses Chart 2 data for monthly/national statistics.
+
+CHART 5
+Quarterly death counts over time, adding together each month for cumulative counts, for US states + Monthly death counts over time, adding together each month for cumulative counts, for US total (from Chart 2)
+
+Data downloaded:
+
+Uses data created in making Chart 2/Chart 4, but selects cumulative counts instead of rates to export
+
+
+
+
+CHART 7
+Cumulative death counts for entire pandemic
+
+Data downloaded:
+
+For total counts and cumulative crude rates and age adjusted rates — https://data.cdc.gov/NCHS/Distribution-of-COVID-19-Deaths-and-Populations-by/jwta-jxbg
+
+
+
+CHART 6
+Cumulative crude rates, by state and for US total + Age adjusted rates, by state and for US total
+
+Date downloaded:
+
+For age adjustment, national population by age groups, 2020 Census via CDC WONDER -
+
+Non Hispanic: https://wonder.cdc.gov/controller/saved/D170/D279F896
+
+Hispanic: https://wonder.cdc.gov/controller/saved/D170/D279F900
+
+
+CHART 3
+Age-adjusted rates, for US total
+
+Use same data calculated in Chart 6, just export US national numbers only. Uses direct age adjusted calculation.
+
+
+MAPS
+Maps with age adjusted rates + number of deaths on hover
+
+Data downloaded:
+
+Used chart 6 data
+Processed in Notebook 2
+
+Filter data to create different dataset for each race/ethnicity group
+
+Export
