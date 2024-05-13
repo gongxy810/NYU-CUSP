@@ -1,0 +1,4 @@
+1) my visualization does not require code
+2) what tools you used for your visualization in lieu of a code implementation, if any.
+A. tableau for histogram and bar charts
+B. Arcgis for geographical maps
